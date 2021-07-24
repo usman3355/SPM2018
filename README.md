@@ -1,10 +1,19 @@
 # Distributed Systems Course Project
 
-
-Context The problem is to apply a "marker" of the same dimension onto the images provided by the user.To achieve this, I use the CIMG library to process the images.
-
 `Aims` 
-The project is to provide both a sequential and parallel implementation of the problem using the pthread version and the fastflow library (https://github.com/fastflow) and to compare the cost and performance models.
+Context ofThe problem is to apply a "marker/watermark" images provided by the user by using parallel Programing paradigms.
+For image processing CIMG image processing library is used. the goal is to produce optimized and scalable code to address the given problem. 
+Implemented Processing Models:
+        1) Sequential Implementation
+        2) Farm based Parallel implentation using STD Pthread
+        3) Map Data Prallel Implementation using STD Pthread
+        4) Farm based Parallel implentation using fastflow
+        5) Map Data Prallel Implementation using STD fastflow
+        
+`Observations`
+the implemented code is deployed and tested on 164 core intel server and good scalability and speedup is observed.
+
+fastflow :(https://github.com/fastflow) 
 
 `Compile`
 
