@@ -13,7 +13,8 @@ Implemented Processing Models:
 `Observations`
 the implemented code is deployed and tested on 164 core intel server and good scalability and speedup is observed.
 
-fastflow :(https://github.com/fastflow) 
+`fastflow`
+ :(https://github.com/fastflow) 
 
 `Compile`
 
