@@ -1,4 +1,4 @@
-# Final Project: Distributed systems: paradigms and models
+# Distributed Systems Course Project
 
 
 Context The problem is to apply a "marker" of the same dimension onto the images provided by the user.To achieve this, I use the CIMG library to process the images.
