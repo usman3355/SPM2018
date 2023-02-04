@@ -1,5 +1,4 @@
-# Distributed Systems Course Project
-
+# Parallel Image Processing 
 `Aims` 
 Context ofThe problem is to apply a "marker/watermark" images provided by the user by using parallel Programing paradigms.
 For image processing CIMG image processing library is used. the goal is to produce optimized and scalable code to address the given problem. 
